@@ -1,6 +1,6 @@
-import 'package:get_tugas_ming_10_token/core/model/Result.dart';
+import 'package:get_tugas_ming_10_token/core/model/Movie.dart';
 import 'package:get_tugas_ming_10_token/core/resp/response.dart';
-import 'package:get_tugas_ming_10_token/core/service/ntworok.dart';
+import 'package:get_tugas_ming_10_token/core/service/network.dart';
 
 class Repository extends Network {
   Repository();

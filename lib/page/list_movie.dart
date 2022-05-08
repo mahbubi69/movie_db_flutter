@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:get_tugas_ming_10_token/core/model/Result.dart';
+import 'package:get_tugas_ming_10_token/core/model/Movie.dart';
 import 'package:get_tugas_ming_10_token/core/repository/repository.dart';
 
 class ListMovie extends StatefulWidget {
